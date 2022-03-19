@@ -1,0 +1,105 @@
+{
+  "Individual Psychology": [
+    {
+      "Alfred Adler": {
+        "cover": "Adler.jpg",
+        "topics": {
+          "1": "Social interest and community feeling",
+          "2": "Holism and the creative self",
+          "3": "Fictional finalism, teleology, and goal constructs",
+          "4": "Psychological and social encouragement",
+          "5": "Inferiority, superiority and compensation"
+        },
+        "theories": {
+          "1": "All human behavior is goal orientated and motivated by striving for superiority. Individuals differ in their goals and how they try to achieve them.",
+          "2": "A natural and healthy reaction to inferiority is compensation: efforts to overcome real or imaged inferiority by developing one's own abilities."
+        },
+        "books": {
+          "1": "1",
+          "2": "2"
+        }
+      }
+    },
+    {
+      "books": {
+        "cover": "books.jpg",
+        "1": {
+          "index": "1",
+          "title": "Understanding Human Nature: The Psychology of Personality",
+          "author": "Alfred Adler",
+          "year": "1927",
+          "cover": "book1.jpg",
+          "link": "https://www.amazon.com/Understanding-Human-Nature-Psychology-Personality-ebook/dp/B00N01TRGY/ref=sr_1_1?dchild=1&keywords=Alfred+adler&qid=1621283663&s=digital-text&sr=1-1"
+        },
+        "2": {
+          "index": "2",
+          "title": "The Science of Living",
+          "author": "Alfred Adler",
+          "year": "1930",
+          "cover": "book2.jpg",
+          "link": "https://www.amazon.com/Science-Living-Alfred-Adler-ebook/dp/B00627HBVG/ref=sr_1_2?dchild=1&keywords=Alfred+adler&qid=1621283663&s=digital-text&sr=1-2"
+        },
+        "3": {
+          "index": "3",
+          "name": "The Courage to Be Disliked",
+          "author": "Ichiro Kishimi, Fumitake Koga, Noah Galvin",
+          "year": "2013",
+          "cover": "book3.jpg",
+          "link": "https://www.amazon.com/The-Courage-to-Be-Disliked-audiobook/dp/B07BRPW98K/ref=sr_1_1?crid=14U7C7XDCDQD1&dchild=1&keywords=the+courage+to+be+disliked&qid=1621286322&s=books&sprefix=the+courage%2Cstripbooks-intl-ship%2C477&sr=1-1"
+        }
+      }
+    },
+    {
+      "videos": {
+        "cover": "videos.png",
+        "1": {
+          "index": "1",
+          "title": "Adler's Theory of Individual Psychology - Simplest Explanation Ever",
+          "author": "Mister Simplify",
+          "platform": "YouTube",
+          "year": "2019",
+          "link": "https://www.youtube.com/watch?v=MJUBHyxDq6Y&t=3s"
+        },
+        "2": {
+          "index": "2",
+          "title": "The Psychology of Alfred Adler: Superiority, Inferiority, and Courage",
+          "author": "Academy of Ideas",
+          "platform": "YouTube",
+          "year": "2017",
+          "link": "https://www.youtube.com/watch?v=t3TbSjZ_fxc&t=9s"
+        }
+      }
+    }
+  ],
+  "Discrete Mathematics": [
+    {
+      "Matrix": {
+        "cover": "matrix.jpg",
+        "definition": "In mathematics, a matrix is an arrangement of numbers, symbols, or letters in rows and columns which is used in solving mathematical problems.",
+        "video": {
+          "index": "3",
+          "title": "Intro to Matrices",
+          "author": "The Organic Chemistry Tutor",
+          "platform": "YouTube",
+          "year": "2018",
+          "link": "https://www.youtube.com/watch?v=yRwQ7A6jVLk"
+        }
+      }
+    },
+    {
+      "Group": {
+        "cover": "group.png",
+        "definition": "The concept of a group is central to abstract algebra: other well-known algebraic structures, such as rings, fields, and vector spaces, can all be seen as groups endowed with additional operations and axioms.",
+        "video": {
+          "index": "4",
+          "title": "Group Definition (expanded) - Abstract Algebra",
+          "author": "Socratica",
+          "platform": "YouTube",
+          "year": "2017",
+          "link": "https://www.youtube.com/watch?v=g7L_r6zw4-c"
+        },
+        "notes": "notes.jpeg"
+      }
+    }
+  ]
+}
